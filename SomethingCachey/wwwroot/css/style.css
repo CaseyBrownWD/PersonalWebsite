@@ -1,10 +1,9 @@
-/**
+http://mjpeventsmanagement.com/ /**
  * WEBSITE: https://themefisher.com
  * TWITTER: https://twitter.com/themefisher
  * FACEBOOK: https://www.facebook.com/themefisher
  * GITHUB: https://github.com/themefisher/
  */
-
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
 
@@ -77,11 +76,15 @@ h6, .h6 {
 }
 
 .section {
-    padding: 120px 0px;
+    padding: 80px 0px;
 }
 
 .section-sm {
     padding: 60px 0px;
+}
+
+.section.contact-title{
+    padding: 10px;
 }
 
 /*--------------- need to put in css for index sections ---------------*/
